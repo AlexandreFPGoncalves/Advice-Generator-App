@@ -1,6 +1,6 @@
 ## Website hosted [here](https://alexandrefpgoncalves.github.io/Advice-Generator-App/)
 
-![Website Snippet](https://user-images.githubusercontent.com/88319848/167436939-e10161da-a6b6-4b87-88f7-bd0fa35728fc.png)
+![Website Snippet](https://user-images.githubusercontent.com/88319848/167445514-98743850-f594-4d2d-b633-2e558c3ab654.png)
 
 ### Frontend Mentor Advice Generator App Challenge
 
@@ -16,3 +16,4 @@ In your terminal after you clone your project down, remember to run either `yarn
 In your terminal after you are done installing the dependencies run `npm start`
 <br>
 <br>
+
