@@ -16,7 +16,7 @@ export const useAdviceGeneratorHelper = (): AdviceGeneratorProps => {
 	//Advice control variables
 	const [generatedAdvice, setGeneratedAdvice] = useState<{ id: string; advice: string }>({ id: '', advice: '' });
 	//Text2Speech control variables
-	const { speak } = useSpeechSynthesis();
+	const { speak, speaking, cancel } = useSpeechSynthesis();
 	const voices = speechSynthesis.getVoices();
 
 	//Generates a first Advice as soon as App mounts
@@ -30,6 +30,9 @@ export const useAdviceGeneratorHelper = (): AdviceGeneratorProps => {
 	const handleGenerateAdviceOnClick = () => {
 		axios.get('https://api.adviceslip.com/advice', { headers: { accept: 'application/json' } }).then((res) => {
 			setGeneratedAdvice(res.data.slip);
+			if (speaking) {
+				cancel();
+			}
 			speak({ text: res.data.slip.advice, voice: voices[0] });
 		});
 	};
