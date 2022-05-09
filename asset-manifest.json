@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Advice-Generator-App/static/css/main.10ffc9fc.chunk.css",
+    "main.js": "/Advice-Generator-App/static/js/main.5157dd50.chunk.js",
+    "main.js.map": "/Advice-Generator-App/static/js/main.5157dd50.chunk.js.map",
+    "runtime-main.js": "/Advice-Generator-App/static/js/runtime-main.5bf5f6aa.js",
+    "runtime-main.js.map": "/Advice-Generator-App/static/js/runtime-main.5bf5f6aa.js.map",
+    "static/js/2.6ef05e56.chunk.js": "/Advice-Generator-App/static/js/2.6ef05e56.chunk.js",
+    "static/js/2.6ef05e56.chunk.js.map": "/Advice-Generator-App/static/js/2.6ef05e56.chunk.js.map",
+    "index.html": "/Advice-Generator-App/index.html",
+    "static/css/main.10ffc9fc.chunk.css.map": "/Advice-Generator-App/static/css/main.10ffc9fc.chunk.css.map",
+    "static/js/2.6ef05e56.chunk.js.LICENSE.txt": "/Advice-Generator-App/static/js/2.6ef05e56.chunk.js.LICENSE.txt",
+    "static/media/iconDice.08691e4c.svg": "/Advice-Generator-App/static/media/iconDice.08691e4c.svg",
+    "static/media/patternDividerDesktop.ed968526.svg": "/Advice-Generator-App/static/media/patternDividerDesktop.ed968526.svg",
+    "static/media/patternDividerMobile.aca38726.svg": "/Advice-Generator-App/static/media/patternDividerMobile.aca38726.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf5f6aa.js",
+    "static/js/2.6ef05e56.chunk.js",
+    "static/css/main.10ffc9fc.chunk.css",
+    "static/js/main.5157dd50.chunk.js"
+  ]
+}
