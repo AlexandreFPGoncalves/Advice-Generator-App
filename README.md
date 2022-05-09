@@ -1,6 +1,6 @@
 ## Website hosted [here](https://alexandrefpgoncalves.github.io/Advice-Generator-App/)
 
-![Website Snippet](https://user-images.githubusercontent.com/88319848/155785359-97fae9f2-0451-4850-ae01-04d8bbe2dba9.png)
+![Website Snippet](https://user-images.githubusercontent.com/88319848/167436939-e10161da-a6b6-4b87-88f7-bd0fa35728fc.png)
 
 ### Frontend Mentor Advice Generator App Challenge
 
